@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yasir Muin</h1>
-<h3 align="center">Lecturer & Fullstack Developer from Indonesia 🇮🇩</h3>
+<h3 align="center">Lecturer & Fullstack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer;Lecturer+at+Universitas+Khairun;Open+Source+Enthusiast;Lifelong+Learner&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer;Lecturer;Open+Source+Enthusiast;Lifelong+Learner&center=true&width=500&height=45">
 </p>
 
 ---
@@ -35,7 +35,7 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="mailto:yasirmuin@gmail.com" target="_blank">
+  <a href="mailto:yasirmuin@unkhair.ac.id" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/yasirmuin" target="_blank">
