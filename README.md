@@ -1,38 +1,65 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Yasir Muin</h1>
+<h3 align="center">Lecturer & Fullstack Developer from Indonesia 🇮🇩</h3>
 
-<div id="header" align="center">
-  <img style="border-radius: 100%; display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://dl.openseauserdata.com/cache/originImage/files/325b1f0a709b0b84934b36946e341d65.png" width="100" height="100">
-  <div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  <img src="https://img.shields.io/badge/Gitgub-slate?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
-</div>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer;Lecturer+at+Universitas+Khairun;Open+Source+Enthusiast;Lifelong+Learner&center=true&width=500&height=45">
+</p>
 
-<div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/livewire/livewire-original.svg" title="livewire" alt="livewire" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="tailwindcss" alt="tailwindcss" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-</div>
+---
 
+### 🧑‍💻 About Me
 
-<!--
-**masjhancoook/masjhancoook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 I'm a Lecturer in the Faculty of Computer Science at Universitas Khairun  
+- 💼 I build academic & education systems using Laravel, React, Inertia, and Flutter  
+- 🌱 Currently learning **Next.js**, **Docker**, and **Clean Architecture**  
+- 🚀 Love to teach, build open source, and mentor students on real-world projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=laravel,flutter,dart,js,ts,react,nextjs,vue,tailwind,nodejs,mysql,git,docker,vscode" />
+</p>
+
+---
+
+### 📂 Highlight Projects
+
+- 🔗 [Sistem Informasi Akademik](https://github.com/masjhancoook/sistem-informasi-akademik) — Laravel + Inertia.js based academic platform  
+- 🔗 [Usulan Proposal Skripsi](https://github.com/masjhancoook/usulan-proposal) — Web app for managing thesis proposal submission  
+- 🔗 [Modul Praktikum Mobile Programming](https://github.com/masjhancoook/flutter-modul) — Learning modules for students using Dart + Flutter  
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="mailto:yasirmuin@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/yasirmuin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://masjhancoook.github.io/portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://yasirmuin.medium.com" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+  <a href="https://github.com/masjhancoook" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=masjhancoook&show_icons=true&theme=radical" alt="yasirmuin-github-stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=masjhancoook&theme=radical" alt="github-streak" />
+</p>
+
+---
+
